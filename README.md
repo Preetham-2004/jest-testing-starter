@@ -1,6 +1,6 @@
 # 📦 Jest Testing Practice
 
-This repository is a personal practice project focused on learning and applying **Jest** for unit testing in JavaScript.
+This repository is a personal practice project on learning **Jest** for unit testing in JavaScript and react.
 
 It includes:
 
