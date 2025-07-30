@@ -8,7 +8,7 @@ It includes:
 - Mocking `fetch` for async tests
 - Code coverage reporting
 
-To check the results you can check the assets folder for all output images.
+To check the results you can go to the assets folder for all output images.
 ## 🛠️ Setup
 
 ```bash
