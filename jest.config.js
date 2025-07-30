@@ -1,8 +1,7 @@
 export default {
-  testEnvironment: 'node',
+  testEnvironment: 'jsdom',
   collectCoverage: true,
-  collectCoverageFrom: ['src/**/*.js'],
-  coverageDirectory: 'coverage',
-  moduleFileExtensions: ['js'],
-  testMatch: ['**/__tests__/**/*.test.js']
+  collectCoverageFrom: ['src/**/*.{js,jsx}'],
+  moduleFileExtensions: ['js', 'jsx'],
+  transform: {}, // handled by Babel
 };
